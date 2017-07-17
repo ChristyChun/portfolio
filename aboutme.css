@@ -1,7 +1,11 @@
-title {
-color: pink;
+h1 {
+color: #fea3aa;
 }
 
-body {
+p {
   font-family: Helvetica;
+}
+
+p {
+  color: #A9A9A9;
 }
