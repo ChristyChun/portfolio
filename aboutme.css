@@ -1,4 +1,10 @@
- <body>
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: lightpink;
+}
 <style>
 .center {
     margin: auto;
@@ -6,9 +12,7 @@
     border: 3px solid #73AD21;
     padding: 10px;
     
-body {
-    background-color: lightpink;
-}
+
 
 h1 {
   color: darkgrey;
@@ -22,4 +26,13 @@ p {
   color: black;
 }
 
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+<p>This page has a light blue background color!</p>
+
 </body>
+</html>
