@@ -1,9 +1,9 @@
 h1 {
-color: #fea3aa;
+color: darkgrey;
 }
 
 p {
-  font-family: Helvetica;
+  font-family: Antic;
 }
 
 p {
@@ -11,5 +11,5 @@ p {
 }
 
 body {
-  background-color: #fea3aa;
+    background-color: babypink;
 }
