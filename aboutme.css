@@ -1,5 +1,9 @@
+body {
+    background-color: lightpink;
+}
+
 h1 {
-color: darkgrey;
+  color: darkgrey;
 }
 
 p {
@@ -10,6 +14,4 @@ p {
   color: black;
 }
 
-body {
-    background-color: lightpink;
-}
+
